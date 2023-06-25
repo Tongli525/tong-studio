@@ -1,5 +1,7 @@
 # tong-studio
 
+This is my portfolio, including ux/ui design, graphic design, illustration, motion graphic. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
