@@ -1,5 +1,7 @@
 # tong-studio
 
+This is my portfolio, including ux/ui design, graphic design, illustration, motion graphic. I am a ux/ui/graphic designer based in New York City. If you have any question, please contact me via email-lliitong1011@gmail.com.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
